@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: config-client
+  rabbitmq:
+    host: 192.168.1.9
+    port: 5672
+    username: guest
+    password: guest
+  cloud:
+    stream:
+      bindings:
+        springCloudBusInput: 
+          group: Client-Consumer
+client:
+  propA: foo
+  propB: goo
+  propC: joo_ALL_RIGHT
