@@ -14,4 +14,4 @@ spring:
 client:
   propA: foo
   propB: goo
-  propC: joo_ALL
+  propC: joo_AL
