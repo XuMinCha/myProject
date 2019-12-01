@@ -14,4 +14,4 @@ spring:
 client:
   propA: foo
   propB: goo
-  propC: joo_SUCCESS_OK
+  propC: joo_ALL
