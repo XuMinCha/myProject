@@ -5,4 +5,4 @@ spring:
 client:
   propA: foo
   propB: goo
-  propC: joo_back
+  propC: joo_OK
