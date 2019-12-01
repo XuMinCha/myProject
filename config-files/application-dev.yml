@@ -10,7 +10,7 @@ spring:
     stream:
       bindings:
         springCloudBusInput: 
-          group: PropertyChanged-Consumer
+          group: Client-Consumer
 client:
   propA: foo
   propB: goo
