@@ -4,5 +4,4 @@ spring:
 
 client:
   propA: foo
-  propB: goo
-  propC: joo_OK2
+  propB: goo_SUCCESS
