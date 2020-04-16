@@ -1,0 +1,2 @@
+# myProject
+此项目主要是存储配置文件(一般是存储在公司内部的gitlab上)，与springCloudConfigCenter一同使用
